@@ -13,7 +13,11 @@ JPMorgan Chase, and Berkshire Hathaway over five years.
 <img width="1920" height="959" alt="Historical_Data" src="https://github.com/user-attachments/assets/d95cdd7f-86c2-4911-ba21-44c9a30b45e6" />
 
 ## Tech used
-Python, Pandas, NumPy, Matplotlib, YFinance
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- YFinance
 
 ## How to run
 1. Clone this repo:
