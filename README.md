@@ -10,7 +10,7 @@ JPMorgan Chase, and Berkshire Hathaway over five years.
 - Plots closing prices for all three stocks
 
 ## Preview
-<img width="1920" height="959" alt="Historical_Data" src="https://github.com/user-attachments/assets/947b0b31-b05b-4053-8679-c5491644bb91" />
+<img width="1920" height="959" alt="Historical_Data" src="https://github.com/user-attachments/assets/d95cdd7f-86c2-4911-ba21-44c9a30b45e6" />
 
 ## Tech used
 Python, Pandas, NumPy, Matplotlib, YFinance
