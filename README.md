@@ -17,13 +17,15 @@ Python, Pandas, NumPy, Matplotlib, YFinance
 
 ## How to run
 1. Clone this repo:
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+      ```bash
+      git clone https://github.com/araut-atharva/Stock-Market-Project.git
+      cd Stock-Market-Project
+      ```
 2. Install dependencies:
    pip install -r requirements.txt
 3. Make sure the CSV files are in a `HistoricalData/` folder.
 4. Run the script:
-   python stock_analysis.py
+   python Notebooks/stock_analysis.py
 
 ## Data
 Historical daily prices downloaded from Yahoo Finance (yfinance),
